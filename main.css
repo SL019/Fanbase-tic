@@ -4,3 +4,7 @@ h1 {
 * {
   font-family: Arial;
 }
+#Box1 {
+padding: 50px; 
+  text-align: center;
+}
